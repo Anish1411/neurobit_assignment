@@ -1,0 +1,12 @@
+.channel-Box{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    border-radius: 8px;
+    padding: 13px;
+    margin: 8px;
+}
+
+.menu{
+    width: 120px;
+}
